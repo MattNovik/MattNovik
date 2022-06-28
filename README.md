@@ -1,6 +1,8 @@
 # Hi, I'm [Matt Novik](https://pylvmv.csb.app/) 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77F22&lines=Welcome!+I'm+junior+frontend+developer+from+Saint-Petersburg!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F77F22&width=600&height=100&lines=Welcome!+I'm+junior+frontend+developer!)](https://git.io/typing-svg)
+
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 
 <!--
 **MattNovik/MattNovik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
