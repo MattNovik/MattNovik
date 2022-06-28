@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## I'm junior frontend developer from Saint-Petersburg!
 <!--
