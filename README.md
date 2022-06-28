@@ -1,7 +1,5 @@
 # Hi, I'm [Matt Novik](https://pylvmv.csb.app/) 👋
 
-## I'm junior frontend developer from Saint-Petersburg!
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77F22&lines=Welcome!+I'm+junior+frontend+developer+from+Saint-Petersburg!)](https://git.io/typing-svg)
 
 <!--
