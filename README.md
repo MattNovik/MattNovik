@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=0B9BEC&width=600&height=100&lines=Welcome!+I'm+junior+frontend+developer!)](https://git.io/typing-svg)
 
-Hope, you'll find my profile interesting for you!
+## Now I'm looking for job and you can find my CV [here](https://pylvmv.csb.app/)
 
+### or you can enjoy the joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
