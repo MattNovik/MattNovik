@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=0B9BEC&width=600&height=60&lines=Welcome!+I'm+junior+frontend+developer!)](https://git.io/typing-svg)
 
-## Now I'm looking for job and you can find my CV [here](https://pylvmv.csb.app/)
+## I'm looking for a job now and you can find my CV [here](https://pylvmv.csb.app/)
 
 ### or you can enjoy the joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
