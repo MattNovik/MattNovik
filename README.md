@@ -2,7 +2,7 @@
 
 ## I'm junior frontend developer from Saint-Petersburg!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome!+I'm+junior+frontend+developer+from+Saint-Petersburg!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77F22&lines=Welcome!+I'm+junior+frontend+developer+from+Saint-Petersburg!)](https://git.io/typing-svg)
 
 <!--
 **MattNovik/MattNovik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
