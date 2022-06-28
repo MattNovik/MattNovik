@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm junior frontend developer from Saint-Petersburg!
+## I'm junior frontend developer from Saint-Petersburg!
 <!--
 **MattNovik/MattNovik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
