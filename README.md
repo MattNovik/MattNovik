@@ -1,4 +1,4 @@
-# Hi, I'm [Matt Novik]([https://daniilshat.ru/](https://pylvmv.csb.app/) 👋
+# Hi, I'm [Matt Novik]([https://pylvmv.csb.app/] 👋
 
 ## I'm junior frontend developer from Saint-Petersburg!
 <!--
