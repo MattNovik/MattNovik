@@ -1,6 +1,6 @@
 # Hi, I'm [Matt Novik](https://pylvmv.csb.app/) 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Welcome!+I'm+Frontend+Deloper+from+SPb!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=0B69DC&lines=Welcome!+I'm+Frontend+Deloper+from+SPb!)](https://git.io/typing-svg)
 
 ## I'm looking for a job now and you can find my CV [here](https://pylvmv.csb.app/)
 
