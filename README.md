@@ -1,7 +1,5 @@
 # Hi, I'm [Matt Novik](https://pylvmv.csb.app/) 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=0B69DC&lines=Welcome!+I'm+Frontend+Deloper+from+SPb!)](https://git.io/typing-svg)
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
